@@ -6,7 +6,6 @@ A user is prompted to upload their text files, which are saved locally. The scri
 
 ![image](https://user-images.githubusercontent.com/56704620/167319061-9ab451fd-36b7-4c3d-8468-e37d5bef10f4.png)
 
-
 ## Inspiration
 💫Learning to gain a better understanding of integrity, as part of the principles of the CIA Triad that is essential to any cybersecurity infrastructure. As well as Hashing Algorithms to encypt and secure senstive data when 
 
@@ -14,6 +13,7 @@ A user is prompted to upload their text files, which are saved locally. The scri
 Ability for user to select the type of Hash they want to use
 Integrate features from AWS, have the data be populated/updated
 Enhance for code for more usuability
+Add Unit-Testing
 
 ## Takeaways
 Exposure to Powershell syntax, Data Structures
