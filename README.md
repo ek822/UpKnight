@@ -5,6 +5,7 @@
 A user is prompted to upload their text files, which are saved locally. The script will look into the folder, associate each file with a hash, and store them in a digitial footprint text file. The digitial footprint text file is where the script will constantly reference to see if anything has changed. The digitial footprint text file has filename path and its corresponding hash using SHA-256 encryption. Next, the script references the digitial footprint text file and stores the data into a dictionary. The key is the filename path and the value is the hash. The script will continously loops through each orginal target file and makes sure the hashes matches the hashes in the digitial footprint file. If there is a difference between the original target files and the digitial footprint file, then the program will display a notification alerting the user that a file has been changed!
 
 ![image](https://user-images.githubusercontent.com/56704620/167319061-9ab451fd-36b7-4c3d-8468-e37d5bef10f4.png)
+![image](https://user-images.githubusercontent.com/56704620/167319137-d3b22e6d-85fd-43d6-90e1-664360262baf.png)
 
 ## Inspiration
 💫Learning to gain a better understanding of integrity, as part of the principles of the CIA Triad that is essential to any cybersecurity infrastructure. As well as Hashing Algorithms to encypt and secure senstive data when 
