@@ -8,7 +8,7 @@ A user is prompted to upload their text files, which are saved locally. The scri
 ![image](https://user-images.githubusercontent.com/56704620/167319137-d3b22e6d-85fd-43d6-90e1-664360262baf.png)
 
 ## Inspiration
-💫Learning to gain a better understanding of integrity, as part of the principles of the CIA Triad that is essential to any cybersecurity infrastructure. As well as Hashing Algorithms to encypt and secure senstive data when 
+💫Learning to gain a better understanding of integrity, as part of the principles of the CIA Triad that is essential to any cybersecurity infrastructure. As well as Hashing Algorithms to encypt and secure senstive data
 
 ## Future Additions 
 Ability for user to select the type of Hash they want to use
