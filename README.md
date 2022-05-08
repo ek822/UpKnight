@@ -11,10 +11,11 @@ A user is prompted to upload their text files, which are saved locally. The scri
 💫Learning to gain a better understanding of integrity, as part of the principles of the CIA Triad that is essential to any cybersecurity infrastructure. As well as Hashing Algorithms to encypt and secure senstive data
 
 ## Future Additions 
-Ability for user to select the type of Hash they want to use
-Integrate features from AWS, have the data be populated/updated
-Enhance for code for more usuability
-Add Unit-Testing
+- Ability for user to select the type of Hash they want to use
+- Integrate features from AWS, have the data be populated/updated
+- Enhance for code for more usuability
+- Add Unit-Testing
 
 ## Takeaways
-Exposure to Powershell syntax, Data Structures
+- Exposure to Powershell syntax
+- Data Structures
